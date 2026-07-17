@@ -1,0 +1,22 @@
+[PASS] MnN3Ni       -> invalid          score=0.0
+          ! Mn(+7) is too high an oxidation state to coexist with N (max +4 allowed). High-ox metals require hard anions like O²⁻ or F⁻.
+          ! Mn(+6) is too high an oxidation state to coexist with N (max +4 allowed). High-ox metals require hard anions like O²⁻ or F⁻.
+[PASS] MnN3Pt       -> invalid          score=0.0
+          ! Mn(+7) is too high an oxidation state to coexist with N (max +4 allowed). High-ox metals require hard anions like O²⁻ or F⁻.
+[PASS] Br3PtRb      -> invalid          score=9.6
+          ! ABX₃ Goldschmidt tolerance t=0.561 outside stable range [0.75, 1.10]
+[PASS] RbFe         -> invalid          score=0.0
+          ! Alkali-TM binary (Rb+Fe) — requires bridging anion (O, S, halide) for stable structure
+[PASS] BaTiO3       -> valid            score=10.0
+[PASS] NaCl         -> valid            score=8.7
+[PASS] TiO2         -> valid            score=9.4
+[PASS] Fe2O3        -> valid            score=9.1
+[PASS] PtCl2        -> valid            score=8.4
+[PASS] ZnS          -> valid            score=8.4
+[PASS] CuO          -> valid            score=8.5
+[PASS] MgO          -> valid            score=8.6
+[PASS] CoFe2O4      -> valid            score=8.9
+[PASS] TiN          -> valid            score=8.5
+[PASS] MoS2         -> valid            score=7.4
+[PASS] AlN          -> valid            score=7.9
+[PASS] CrN          -> valid            score=8.9

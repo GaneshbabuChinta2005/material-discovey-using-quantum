@@ -1,0 +1,15 @@
+BaTiO3          score= 9.5  t=0.97     type=perovskite              validated=True   Goldschmidt t=0.970 (valid perovskite range)
+SrTiO3          score= 9.5  t=0.91     type=perovskite              validated=True   Goldschmidt t=0.910 (valid perovskite range)
+CaTiO3          score= 9.5  t=0.846    type=perovskite              validated=True   Goldschmidt t=0.846 (valid perovskite range)
+NaNiCl3         score= 9.3  t=0.8      type=perovskite              validated=True   Goldschmidt t=0.800 (valid perovskite range)
+CaF2            score= 7.9  t=N/A      type=fluorite                validated=True   Standard AX₂ prototype
+TiO2            score= 7.8  t=N/A      type=rutile_or_fluorite      validated=True   Standard AX₂ prototype
+Al2O3           score= 7.0  t=N/A      type=corundum                validated=True   A₂O₃ corundum prototype
+MgAl2O4         score= 7.2  t=N/A      type=spinel                  validated=True   AB₂O₄ spinel prototype
+KNbO3           score= 9.6  t=0.964    type=perovskite              validated=True   Goldschmidt t=0.964 (valid perovskite range)
+NaCl            score= 7.3  t=N/A      type=rock_salt               validated=True   Standard binary prototype
+Fe2O3           score= 7.6  t=N/A      type=corundum                validated=True   A₂O₃ corundum prototype
+LiTiO3          score= 7.0  t=N/A      type=ternary_oxide           validated=False  No ionic radii data for Goldschmidt check
+CsTiO3          score= 7.1  t=N/A      type=ternary_oxide           validated=False  No ionic radii data for Goldschmidt check
+KTiO3           score= 7.1  t=N/A      type=ternary_oxide           validated=False  No ionic radii data for Goldschmidt check
+RbTiO3          score= 7.1  t=N/A      type=ternary_oxide           validated=False  No ionic radii data for Goldschmidt check

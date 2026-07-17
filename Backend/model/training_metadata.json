@@ -1,0 +1,33 @@
+{
+  "data_policy": "REAL_DFT_ONLY",
+  "training_samples": {
+    "energy": 23134,
+    "ehull": 23134,
+    "bandgap": 23134
+  },
+  "test_samples": {
+    "energy": 4083
+  },
+  "metrics": {
+    "formation_energy": {
+      "r2": 0.8705,
+      "mae": 0.2305,
+      "rmse": 0.3502
+    },
+    "ehull": {
+      "r2": 0.3697,
+      "mae": 0.1401,
+      "rmse": 0.2596
+    },
+    "band_gap": {
+      "r2": 0.6177,
+      "mae": 0.7402,
+      "rmse": 1.034
+    }
+  },
+  "feature_count": 35,
+  "scaler": "StandardScaler (fitted on training split only)",
+  "uncertainty_method": "BaggingRegressor (10 estimators)",
+  "has_ehull_model": true,
+  "has_bandgap_model": true
+}

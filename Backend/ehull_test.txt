@@ -1,0 +1,10 @@
+BaTiO3        e= -3.24  ehull=   0.004  tier=1  Thermodynamically Stable
+TiO2          e= -3.39  ehull=   0.003  tier=1  Thermodynamically Stable
+NaCl          e= -3.29  ehull=   0.003  tier=1  Thermodynamically Stable
+AlTiO3        e= -3.30  ehull=   0.257  tier=3  High-energy Metastable
+  -> WARNING: High-energy metastable phase — unlikely to form spontaneously. Requires kinetic 
+CrMoN3        e= -1.50  ehull=     0.7  tier=4  Unstable
+  -> WARNING: Thermodynamically unstable — decomposes into competing phases under equilibrium.
+FeTiO3        e= -2.00  ehull=   1.493  tier=5  Highly Unstable
+  -> WARNING: Highly unstable (Ehull > 1.0 eV) — this phase will not form under any equilibriu
+BaZrO3        e= -3.42  ehull=     0.0  tier=1  Thermodynamically Stable

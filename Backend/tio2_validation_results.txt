@@ -1,0 +1,37 @@
+=================================================================
+  TiO2 (Titanium Dioxide) - MODEL vs REAL DATA
+=================================================================
+
+  Formation Energy (eV/atom)
+    MODEL:   -0.5708
+    REAL:    -3.3900  (Materials Project mp-2657)
+    ERROR:   2.8192 eV  --> POOR (>1.0)
+
+  Band Gap (eV)
+    MODEL:   0.723
+    REAL:    3.030  (Experimental, rutile)
+    ERROR:   2.307 eV  --> POOR (>1.5)
+
+  Stability
+    Stable:  True  (Real: True)
+
+  Applications
+    MODEL:   ['Semiconductor Device', 'Photovoltaics (Solar Cells)', 'Thermoelectric Generator', 'Magnetic Material']
+    REAL:    ['Photocatalysis', 'Solar Cell', 'Pigment', 'UV Protection']
+    Match:   1/4 fuzzy matches
+    Class:   Semiconductor
+    Conf:    high (90%)
+
+  Detailed Predictions:
+    - Semiconductor Device (90%) ref: Si, GaAs, GaN, InP, SiC
+    - Photovoltaics (Solar Cells) (81%) ref: Shockley-Queisser limit: optimal 1.1-1.4 eV; CdTe, CIGS, perovskites
+    - Thermoelectric Generator (80%) ref: Bi₂Te₃, PbTe, SnSe, SiGe alloys
+    - Magnetic Material (70%) ref: NdFeB, SmCo₅, Fe₃O₄, CoFe₂O₄
+
+  VQE Quantum Simulation
+    Hamiltonian: element-aware-huckel
+    Energy:      -4.832681 a.u.
+    Elements:    ['Ti', 'O']
+    Converged:   False
+    Qubits:      5
+=================================================================

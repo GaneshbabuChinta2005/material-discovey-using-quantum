@@ -1,0 +1,8 @@
+,Element,Symbol,Atomic_number,Group,Period,Atomic_weight,Density,Melting_point,Boiling_point,Specific_heat_capacity,Electro_negativity,Abundance_in_Earth_crust
+0,Boron,B,5,13,2,10.81,2.34,2349.0,4200,1.026,2.04,10
+1,Silicon,Si,14,14,3,28.085,2.3296,1687.0,3538,0.705,1.9,282000
+2,Germanium,Ge,32,14,4,72.63,5.323,1211.4,3106,0.32,2.01,1.5
+3,Arsenic,As,33,15,4,74.921595,5.776,1090.0,887,0.329,2.18,1.8
+4,Antimony,Sb,51,15,5,121.76,6.685,903.78,1860,0.207,2.05,0.2
+5,Tellurium,Te,52,16,5,127.6,6.232,722.66,1261,0.202,2.1,0.001
+6,Polonium,Po,84,16,6,209.0,9.32,527.0,1235,-,2.0,not added

@@ -1,0 +1,8 @@
+,Element,Symbol,Atomic_number,Group,Period,Atomic_weight,Density,Melting_point,Boiling_point,Specific_heat_capacity,Electro_negativity,Abundance_in_Earth_crust
+0,Hydrogen,H,1,1,1,1.0,8.988e-05,14.01,20.28,14.304,2.2,1400.0
+1,Carbon,C,6,14,2,12.011,2.267,4000.0,4300.0,0.709,2.55,200.0
+2,Nitrogen,N,7,15,2,14.007,0.0012506,63.15,77.36,1.04,3.04,19.0
+3,Oxygen,O,8,16,2,15.999,0.001429,54.36,90.2,0.918,3.44,461000.0
+4,Silicon,Si,14,14,3,24.305,1.738,923.0,1363.0,1.023,1.31,23300.0
+5,Sulfur,S,16,16,3,32.06,2.067,388.36,717.87,0.71,2.58,350.0
+6,Selenium,Se,34,16,4,78.971,4.809,453.0,958.0,0.321,2.55,0.05

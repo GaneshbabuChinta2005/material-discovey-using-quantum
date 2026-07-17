@@ -1,0 +1,8 @@
+,Element,Symbol,Atomic_number,Group,Period,Atomic_weight,Density,Melting_point,Boiling_point,Specific_heat_capacity,Electro_negativity,Abundance_in_Earth_crust
+0,Aluminium,Al,13,13,3,26.9815384,2.698,933.47,2792,0.897,1.61,82300.0
+1,Gallium,Ga,31,13,4,69.723,5.907,302.9146,2673,0.371,1.81,19.0
+2,Indium,In,49,13,5,114.818,7.31,429.75,2345,0.233,1.78,0.25
+3,Tin,Sn,50,14,5,118.71,7.287,505.08,2875,0.228,1.96,2.3
+4,Thallium,Tl,81,13,6,204.38,11.85,577.0,1746,0.129,1.62,0.85
+5,Lead,Pb,82,14,6,207.2,11.342,600.61,2022,0.129,not added,14.0
+6,Bismuth,Bi,83,15,6,208.9804,9.807,544.7,1837,0.122,2.02,0.009

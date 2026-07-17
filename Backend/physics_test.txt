@@ -1,0 +1,18 @@
+BAND GAP CORRECTIONS
+======================================================================
+  CaF2        raw=0.5  ->  corrected=11.8 eV  [known]  conf=high
+              ! Reference value from experiment: 11.0-12.5 eV
+  MgO         raw=1.2  ->  corrected=7.6 eV  [known]  conf=high
+              ! Reference value from experiment: 7.2-8.0 eV
+  Fe2O3       raw=5.0  ->  corrected=2.1 eV  [known]  conf=high
+              ! Reference value from experiment: 1.9-2.3 eV
+  TiN         raw=2.0  ->  corrected=0.0 eV  [known]  conf=high
+              ! Reference value from experiment: 0.0-0.0 eV
+  NaCl        raw=0.8  ->  corrected=9.0 eV  [known]  conf=high
+              ! Reference value from experiment: 8.5-9.5 eV
+  BaTiO3      raw=0.6  ->  corrected=3.2 eV  [known]  conf=high
+              ! Reference value from experiment: 3.0-3.5 eV
+  ZnS         raw=0.3  ->  corrected=3.6 eV  [known]  conf=high
+              ! Reference value from experiment: 3.5-3.8 eV
+  TiO2        raw=1.0  ->  corrected=3.2 eV  [known]  conf=high
+              ! Reference value from experiment: 3.0-3.4 eV

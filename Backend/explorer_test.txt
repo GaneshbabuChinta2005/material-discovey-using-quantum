@@ -1,0 +1,32 @@
+Generated 30 compounds in 0.08s
+==================================================
+  KNbO3           score=10.0
+  KO3Ta           score=10.0
+  KO3V            score=10.0
+  O3SrZr          score=10.0
+  O3SrTi          score=10.0
+  Cl3NaNi         score=10.0
+  MnO3Sr          score=10.0
+  O3PtSr          score=10.0
+  O3ReSr          score=10.0
+  O3PdSr          score=10.0
+  HfO3Sr          score=10.0
+  IrO3Sr          score=10.0
+  Ca2MnO4         score=9.9
+  Ca2O4Re         score=9.9
+  Ca2O4Ti         score=9.9
+  Ca2IrO4         score=9.9
+  Ca2HfO4         score=9.9
+  Ca2O4Pt         score=9.9
+  Ca2O4Zr         score=9.9
+  Cl3MnNa         score=9.7
+  Cl3NaZn         score=9.7
+  Cl3NaPt         score=9.7
+  Cl3NaV          score=9.7
+  Cl3FeNa         score=9.7
+  Cl3NaPd         score=9.7
+  O3Y2            score=9.7
+  HfMgO3          score=9.6
+  MgMnO3          score=9.6
+  MgO3Zr          score=9.6
+  MgO3Ti          score=9.6
