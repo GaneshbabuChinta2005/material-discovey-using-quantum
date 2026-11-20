@@ -607,3 +607,6 @@ timestamp,compound,formation_energy,band_gap_eV,quantum_score,stability_score,no
 2026-04-23T10:32:03.990233,Y2CoO4,-2.208,1.38,0.6077,77.71,0.75,Semiconductor,Photovoltaics (Solar Cells)|Semiconductor Device|Magnetic Material|Heterogeneous Catalyst
 2026-04-23T10:32:03.992309,Y2VO4,-2.118,1.73,0.6048,76.59,0.75,Semiconductor,Photovoltaics (Solar Cells)|Semiconductor Device|Photocatalysis (Water Splitting)|Heterogeneous Catalyst
 2026-04-23T10:32:03.994837,Y2NiO4,-2.205,1.74,0.6237,73.12,0.75,Semiconductor,Photovoltaics (Solar Cells)|Semiconductor Device|Magnetic Material|Heterogeneous Catalyst
+2026-11-20T22:17:41.420234,BaF2,-3.925,9.31,0.5192,87.94,0.02,Insulator,Structural Ceramic|Laser / Optical Material|High-k Dielectric|Biomedical Ceramic
+2026-11-20T22:17:41.423239,Y2CrO4,-2.926,1.78,0.5041,86.55,0.75,Semiconductor,Photovoltaics (Solar Cells)|Semiconductor Device|Magnetic Material|Piezoelectric / Ferroelectric
+2026-11-20T22:17:41.423239,Y2MoO4,-2.95,1.74,0.5231,86.1,0.75,Semiconductor,Photovoltaics (Solar Cells)|Semiconductor Device|Photocatalysis (Water Splitting)|Heterogeneous Catalyst
